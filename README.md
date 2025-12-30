@@ -38,15 +38,6 @@ Tricolor/
 - **Bootstrap 5.3** - Responsive framework
 - **Google Fonts** - Jaldi, Karantina typefaces
 
-## 👥 Team
-
-| Name    | Role            |
-| ------- | --------------- |
-| Anurag  | Tech Lead       |
-| Shubham | IoT Engineer    |
-| Nishant | Designer        |
-| Rudra   | Product Manager |
-
 ## 🚁 Pages
 
 1. **Home (index.html)** - Company overview, features, innovation gallery, and team
